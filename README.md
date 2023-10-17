@@ -1,3 +1,3 @@
 # DEMO
 
-Readme file yazdım.
+Readme file yazdım!
